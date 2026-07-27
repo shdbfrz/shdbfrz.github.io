@@ -1,4 +1,3 @@
-<div align="center">
 
 # 👋 Hi, I'm Shadab Firoz
 
@@ -6,11 +5,15 @@
 
 Building scalable software, intelligent systems, and data-driven applications while continuously exploring modern software engineering, artificial intelligence, and backend technologies.
 
-[Portfolio](https://shadabfiroz.me) •
-[GitHub](https://github.com/shdbfrz) •
-[LinkedIn](https://linkedin.com/in/shadabfiroz)
+🌐 **Portfolio:** https://shadabfiroz.me
 
-</div>
+💻 **GitHub:** https://github.com/shdbfrz
+
+💼 **LinkedIn:** https://www.linkedin.com/in/shadabfiroz
+
+📧 **Email:** your-email@example.com
+
+---
 
 ---
 
